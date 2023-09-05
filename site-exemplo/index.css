@@ -5,5 +5,12 @@ h1.titulo {
 
 /* Estilização para o body */
 body {
-    background-color: rosybrown;
+    background-color: aquamarine;
+}
+p {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D168618%26name%3DAurora%2Bboreal%2BPap%25C3%25A9is%2Bde%2BParede%26filter%3D4K%2BUltra%2BHD%26lang%3DPortuguese&psig=AOvVaw3c3zjxC53KzMzrympFNdAh&ust=1694030870193000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODh0fOilIEDFQAAAAAdAAAAABAE);
+    background-size: cover; /* ou outra opção de tamanho desejada */
+    background-repeat: no-repeat; /* ou outra opção de repetição desejada */
+    background-position: center center; /* ou outra posição desejada */
+}
 }
