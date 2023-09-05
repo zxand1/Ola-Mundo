@@ -1,0 +1,9 @@
+/* Estilização para o título */
+h1.titulo {
+    text-align: center;
+}
+
+/* Estilização para o body */
+body {
+    background-color: rosybrown;
+}
